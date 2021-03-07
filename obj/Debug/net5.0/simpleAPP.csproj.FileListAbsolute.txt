@@ -1,0 +1,16 @@
+E:\VSC\simpleAPP\obj\Debug\net5.0\simpleAPP.csprojAssemblyReference.cache
+E:\VSC\simpleAPP\obj\Debug\net5.0\simpleAPP.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSC\simpleAPP\obj\Debug\net5.0\simpleAPP.AssemblyInfoInputs.cache
+E:\VSC\simpleAPP\obj\Debug\net5.0\simpleAPP.AssemblyInfo.cs
+E:\VSC\simpleAPP\obj\Debug\net5.0\simpleAPP.csproj.CoreCompileInputs.cache
+E:\VSC\simpleAPP\bin\Debug\net5.0\simpleAPP.exe
+E:\VSC\simpleAPP\bin\Debug\net5.0\simpleAPP.deps.json
+E:\VSC\simpleAPP\bin\Debug\net5.0\simpleAPP.runtimeconfig.json
+E:\VSC\simpleAPP\bin\Debug\net5.0\simpleAPP.runtimeconfig.dev.json
+E:\VSC\simpleAPP\bin\Debug\net5.0\simpleAPP.dll
+E:\VSC\simpleAPP\bin\Debug\net5.0\ref\simpleAPP.dll
+E:\VSC\simpleAPP\bin\Debug\net5.0\simpleAPP.pdb
+E:\VSC\simpleAPP\obj\Debug\net5.0\simpleAPP.dll
+E:\VSC\simpleAPP\obj\Debug\net5.0\ref\simpleAPP.dll
+E:\VSC\simpleAPP\obj\Debug\net5.0\simpleAPP.pdb
+E:\VSC\simpleAPP\obj\Debug\net5.0\simpleAPP.genruntimeconfig.cache
