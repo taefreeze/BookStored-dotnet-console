@@ -11,19 +11,28 @@ namespace simpleAPP
             public string subject;
             public int book_id;
         };
+        struct multiplication
+        {
+            public int numberA;
+            public int numberB;
+            public int result;
+        }
     static void Main(string[] args)
     {
         Books[] BookArray = new Books[4];
+        multiplication[] mathArray = new multiplication[4];
         int Order = 1;
+        int math = 1;
         bool endApp = false;
-        Console.WriteLine("Book Store\r");
-        Console.WriteLine("------------------------\n");
 
         while (!endApp)
             {
+            Console.WriteLine("Book Store\r");
+            Console.WriteLine("------------------------\n");
             Console.WriteLine("Choose an operation :");
             Console.WriteLine("\ta - Add book");
             Console.WriteLine("\tl - List of book");
+            Console.WriteLine("\tm - multiply");
             Console.Write("Your option? ");
 
             string op = Console.ReadLine();
@@ -55,6 +64,12 @@ namespace simpleAPP
                             Console.WriteLine("Book id :{0}",BookArray[i].book_id);
                         }
                         break;
+                case "m":
+                        int a = multiply(math);
+                        Console.WriteLine(a);
+                        break;
+                default:
+                        break;
             }
 
 
@@ -64,6 +79,14 @@ namespace simpleAPP
             Console.WriteLine("\n"); // Friendly linespacing.
             }
         return;
+        }
+        public static int multiply(int math)
+        {
+            Console.WriteLine("enter number ");
+            int a = int.Parse(Console.ReadLine());
+            Console.WriteLine("enter number ");
+            int b = int.Parse(Console.ReadLine());
+            return a + b;
         }
     }
 }
